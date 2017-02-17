@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/ReverseString/ReverseString/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/ReverseString/ReverseString/bin/Debug/ReverseString.exe.mdb
+/Users/TaHuC/Projects/ReverseString/ReverseString/bin/Debug/ReverseString.exe
+/Users/TaHuC/Projects/ReverseString/ReverseString/obj/x86/Debug/ReverseString.exe
+/Users/TaHuC/Projects/ReverseString/ReverseString/obj/x86/Debug/ReverseString.exe.mdb
